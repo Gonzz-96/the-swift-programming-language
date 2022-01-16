@@ -6,5 +6,6 @@
         <page name='NumberTypes'/>
         <page name='TypeAliases'/>
         <page name='MoreSwiftTypes'/>
+        <page name='BasicOperators'/>
     </pages>
 </playground>
