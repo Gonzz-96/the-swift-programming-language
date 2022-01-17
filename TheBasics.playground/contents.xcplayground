@@ -7,5 +7,7 @@
         <page name='TypeAliases'/>
         <page name='MoreSwiftTypes'/>
         <page name='BasicOperators'/>
+        <page name='StringsAndCharacters'/>
+        <page name='StringsAndCharacters2'/>
     </pages>
 </playground>
