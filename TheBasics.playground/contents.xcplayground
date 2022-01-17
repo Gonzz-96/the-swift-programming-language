@@ -9,5 +9,6 @@
         <page name='BasicOperators'/>
         <page name='StringsAndCharacters'/>
         <page name='StringsAndCharacters2'/>
+        <page name='CollectionTypes'/>
     </pages>
 </playground>
