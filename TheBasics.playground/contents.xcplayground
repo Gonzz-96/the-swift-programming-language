@@ -10,5 +10,6 @@
         <page name='StringsAndCharacters'/>
         <page name='StringsAndCharacters2'/>
         <page name='CollectionTypes'/>
+        <page name='ControlFlow'/>
     </pages>
 </playground>
