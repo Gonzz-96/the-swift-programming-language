@@ -11,5 +11,7 @@
         <page name='StringsAndCharacters2'/>
         <page name='CollectionTypes'/>
         <page name='ControlFlow'/>
+        <page name='Functions'/>
+        <page name='Random'/>
     </pages>
 </playground>
