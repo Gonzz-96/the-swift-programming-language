@@ -12,6 +12,6 @@
         <page name='CollectionTypes'/>
         <page name='ControlFlow'/>
         <page name='Functions'/>
-        <page name='Random'/>
+        <page name='Closures'/>
     </pages>
 </playground>
