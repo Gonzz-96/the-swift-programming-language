@@ -14,5 +14,7 @@
         <page name='Functions'/>
         <page name='Closures'/>
         <page name='Enumerations'/>
+        <page name='StructuresAndClasses'/>
+        <page name='StoredProperties'/>
     </pages>
 </playground>
