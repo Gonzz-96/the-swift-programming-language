@@ -18,5 +18,6 @@
         <page name='StoredProperties'/>
         <page name='Methods'/>
         <page name='Subscripts'/>
+        <page name='Inheritance'/>
     </pages>
 </playground>
