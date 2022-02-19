@@ -186,3 +186,9 @@ func returnFirst<T: Container>(_ arg: T) -> T.Item {
 
 let item = returnFirst([0])
 
+func randomGenericFunctino<T>(_ a: T) -> T {
+    print("Hello, \(a)")
+    return a
+}
+
+let x = randomGenericFunctino(35)
